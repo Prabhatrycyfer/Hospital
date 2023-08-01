@@ -1,0 +1,1750 @@
+@media (max-width: 1440px) {
+    .doc-img {
+        top: 9%;
+    }
+
+    .carousel-caption {
+        bottom: 10%;
+    }
+
+    .banner .bnr-txt {
+        width: 596px;
+    }
+
+    .banner h5 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .banner h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .banner p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .banner form {
+        padding: 20px;
+    }
+
+    .banner form h2 {
+        font-size: 28px;
+    }
+
+    .banner .form-control {
+        margin: 8px 0;
+        padding: 6px;
+        font-size: 14px;
+    }
+
+    .banner textarea {
+        height: 117px;
+    }
+
+    .cus-img img {
+        width: 45px;
+    }
+
+    .abt-img img {
+        width: 100%;
+    }
+
+    .abt-txt {
+        padding-right: 30px;
+    }
+
+    .check-img {
+        top: 15%;
+    }
+
+    .check-img img {
+        max-width: 560px;
+    }
+
+    .why-ch-us .srvc-crd {
+        padding: 10px;
+        margin-top: 0px;
+        min-height: 300px;
+    }
+
+    .why-ch-us {
+        padding-bottom: 20px;
+    }
+
+    .doc-img img {
+        height: unset;
+        max-width: 460px;
+    }
+
+    .why-ch-us .info-txt {
+        padding: 7px 0;
+    }
+
+    .abus-2 {
+        padding-bottom: 25px;
+    }
+
+    .ask-ques-sec .banner .form-control {
+        margin: 15px 0;
+        padding: 15px;
+        font-size: 14px;
+    }
+
+    .ask-ques-sec .banner textarea {
+        height: 160px;
+    }
+
+    .third-img {
+        right: -7%;
+    }
+
+    /*.abus-2 .scnd-img {*/
+    /*    right: 5%;*/
+    /*    bottom: -31%;*/
+    /*}*/
+
+    .offer-img {
+        height: 100%;
+    }
+
+    .offer-img img {
+        height: 100%;
+    }
+
+}
+
+
+@media (max-width: 1399.98px) {
+    .banner .carousel-indicators {
+        top: 30%;
+    }
+
+    .row.r-foot {
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .footdesc {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footdesc p {
+        margin: 28px 0;
+        color: #fff;
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .carousel-caption {
+        bottom: 5%;
+    }
+
+    .banner h5 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .banner h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .banner p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .banner form {
+        padding: 20px;
+    }
+
+    .banner form h2 {
+        font-size: 28px;
+    }
+
+    .banner .form-control {
+        margin: 8px 0;
+        padding: 6px;
+    }
+
+    .banner textarea {
+        height: 117px;
+    }
+
+    .cus-srvc {
+        padding: 10px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .prgf-txt {
+        font-size: 14px;
+    }
+
+    .abot-sec h2 {
+        font-size: 46px;
+        line-height: 56px;
+    }
+
+    .abot-sec .h3-txt {
+        font-size: 46px;
+        line-height: 56px;
+    }
+
+    .abt-txt .h5-txt {
+        line-height: 32px;
+    }
+
+    /* .exprt p {
+        font-size: 14px;
+        line-height: 19px;
+    } */
+    .srvc-crd {
+        padding: 15px;
+        min-height: 352px;
+    }
+
+    .service-sec .info-txt {
+        padding: 0px 0px 30px;
+    }
+
+    .service-sec::after {
+        height: 115px;
+        width: 104px;
+    }
+
+    .offer-txt {
+        padding: 0px 30px 30px 0px;
+    }
+
+    .offer-img img {
+        height: 100%;
+    }
+
+    .offer-img {
+        height: 100%;
+    }
+
+    .count-area-content {
+        font-size: 16px;
+    }
+
+    .kid-txt {
+        padding: 0 30px;
+    }
+
+    .vdo-sec h2 {
+        font-size: 30px;
+    }
+
+    .faq .item-container .item .qus {
+        font-size: 14px;
+    }
+
+    .faq .item-container .item .ans {
+        font-size: 14px;
+    }
+
+    .faq .item-container .item {
+        padding: 18px;
+    }
+
+    .blog .pb-5 {
+        padding-bottom: 0 !important;
+    }
+
+    .date-dv {
+        bottom: 50%;
+    }
+
+    .blog .blue-txt {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .blg-icn span {
+        font-size: 15px;
+    }
+
+    .about-count-sec img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .about-count-sec .count-area-content {
+        padding: 10px;
+    }
+
+    .check-img img {
+        max-width: 500px;
+    }
+
+    .scnd-img {
+        bottom: -25%;
+    }
+
+
+    .abus-2 .scnd-img {
+        bottom: -45%;
+        right: 0%;
+    }
+
+    .third-img {
+        position: absolute;
+        top: 17%;
+        right: -40px;
+    }
+
+    .third-img img {
+        max-width: 285px;
+    }
+
+    .cus-txt h5 {
+        font-size: 18px;
+        line-height: 28px;
+        margin: 0;
+    }
+
+    .abot-sec .cus-srvc {
+        padding: 10px 0;
+    }
+
+    .cus-txt .prgf-txt {
+        margin: 0;
+    }
+
+    .kid-dv {
+        margin: 0;
+    }
+
+    .doc-1 {
+        padding: 0px 40px;
+    }
+
+    .doctor-sec .doc-2 h2 span {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .h3-txt {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .doc-1 h2 span {
+        font-size: 38px;
+        line-height: 48px;
+    }
+
+    .prt-imgs {
+        max-width: 300px;
+    }
+
+    .port-img .srvc-crd {
+        top: 34%;
+        padding-right: 60px;
+        min-height: unset;
+    }
+
+    .wd-icn span {
+        width: 250px;
+    }
+
+    .blg-doc-txt .blue-txt {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .blg-doc-img img {
+        max-width: 110px;
+    }
+
+    .rc-pst .blg-doc-txt .blue-txt {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .rc-pst .blg-icn span {
+        font-size: 12px;
+        line-height: 26px;
+    }
+
+    .rc-pst .blg-doc-txt {
+        margin: 0 15px;
+    }
+
+    .blog-page-sec .date-dv {
+        top: 30%;
+    }
+
+    .faq .item-container .item {
+        padding: 10px;
+    }
+
+    .ask-ques-sec button {
+        margin-top: 20px;
+    }
+
+    .contact-info {
+        padding: 30px;
+    }
+
+    .banner .bnr-txt {
+        width: 580px;
+    }
+
+    .exprt {
+        padding: 7px 0;
+    }
+
+    .offer-sec .offer-txt h2 {
+        padding-bottom: 0;
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .doc-img {
+        top: 22%;
+    }
+
+    .doc-img img {
+        max-width: 396px;
+    }
+
+    .port-num {
+        right: 43px;
+        bottom: -15px;
+    }
+
+    .nav-link {
+        margin-right: 8px;
+    }
+
+    .faq .item-container .item .qus::before {
+        height: 13px;
+        right: 5px;
+    }
+
+    .faq .item-container .item .qus::after {
+        width: 13px;
+    }
+
+    .navbar-brand img {
+        max-width: 200px;
+    }
+
+    @keyframes bannermove {
+        from {
+            left: 0px;
+        }
+
+        to {
+            left: -1300px;
+        }
+    }
+
+    .abot-sec .exprt {
+        padding: 12px 0;
+    }
+
+}
+
+@media (max-width: 1199.98px) {
+    .banner .bnr-txt {
+        width: 496px;
+    }
+
+    .doc-1 h2 span {
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .doc-1 h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .h3-txt {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .doctor-sec .doc-2 h2 span {
+        font-size: 23px;
+        line-height: 33px;
+    }
+
+    /* .social-icn {
+        margin-top: -207px;
+    } */
+    .h6-txt {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    li.nav-item {
+        font-size: 13px;
+        line-height: 28px;
+    }
+
+    .nav-link {
+        margin-right: 10px;
+    }
+
+    .navbar button.bg-gradient {
+        width: 140px;
+        font-size: 12px;
+        padding: 10px 0;
+    }
+
+    .banner .carousel-caption h1 {
+        font-size: 27px;
+        line-height: 37px;
+    }
+
+    .banner .form-control {
+        margin: 5px 0;
+        padding: 5px;
+        font-size: 14px;
+    }
+
+    .inpt-txt {
+        gap: 5px;
+    }
+
+    .banner form {
+        padding: 10px;
+    }
+
+    .banner form h2 {
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+
+    .banner form button {
+        padding: 5px 0;
+    }
+
+    .bnr-txt p {
+        line-height: 24px;
+    }
+
+    button.bg-gradient {
+        width: 140px;
+        padding: 13px 0;
+    }
+
+    .banner .carousel-indicators {
+        top: 10%;
+    }
+
+    /*#home-bnr .bnr-txt {*/
+    /*    width: 100%;*/
+    /*}*/
+
+    .cus-srvc {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .cus-txt {
+        margin: 20px 0;
+    }
+
+    .scnd-img {
+        top: 80%;
+    }
+
+    .abot-sec .h3-txt {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .abot-sec h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .abot-sec button.bg-gradient {
+        font-size: 12px;
+    }
+
+    .offer-img img {
+        height: unset;
+    }
+
+    .offer-img {
+        display: flex;
+        align-items: center;
+    }
+
+    .offer-sec .offer-txt h2 {
+        padding-bottom: 0;
+        font-size: 29px;
+        line-height: 40px;
+    }
+
+    .offer-sec .prgf-txt {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .exprt {
+        padding: 15px 0 0;
+    }
+
+    .count-area-content {
+        padding: 15px;
+        font-size: 20px;
+        margin: 12px;
+    }
+
+    .count-title {
+        font-size: 15px;
+    }
+
+    .count-sec {
+        padding: 20px;
+    }
+
+    .srvc-crd {
+        min-height: 300px;
+    }
+
+    .kid-txt {
+        padding: 0 10px;
+    }
+
+    .vdo-sec h2 {
+        font-size: 27px;
+    }
+
+    .vidoe-dv {
+        height: 484px;
+    }
+
+    .faq h2 {
+        font-size: 40px;
+    }
+
+    h2 span {
+        font-size: 40px;
+    }
+
+    .date-dv {
+        bottom: 61%;
+    }
+
+    .dis-none {
+        display: none;
+    }
+
+    .why-ch-us .srvc-crd {
+        min-height: 370px;
+    }
+
+    .check-img {
+        top: 25%;
+    }
+
+    .abus-2 .third-img img {
+        max-width: 285px;
+    }
+
+    .abus-2 .scnd-img {
+        top: 88%;
+    }
+
+    .abt-pg-txt {
+        bottom: -32%;
+        right: 0%;
+        width: 100%;
+    }
+
+    .abus-2 .abt-txt {
+        padding: 0 30px;
+    }
+
+    .third-img {
+        top: 5%;
+        right: -40px;
+    }
+
+    .cntct-info-sec .banner .form-control {
+        margin: 10px 0;
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .contact-info .prgf-txt {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .cntc-scil-icon {
+        padding: 15px;
+    }
+
+    .contact-info .social-icn {
+        margin: 15px 10px;
+    }
+
+    .cntct-info-sec .bnr-frm {
+        padding: 20px;
+        min-height: 706px;
+    }
+
+    .cntct-info-sec button {
+        margin-top: 24px;
+        font-size: 12px;
+        padding: 12px !important;
+    }
+
+    .cntct-info-sec .bnr-frm p {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .faq-doc-img {
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .bnr-frm {
+        padding: 30px 30px 30px 0px;
+    }
+
+    .blog-page-sec .date-dv {
+        top: 22%;
+    }
+
+    .serch-box {
+        padding: 10px;
+    }
+
+    .blog-page-sec .rw-rvs {
+        flex-direction: column;
+        display: flex;
+        align-items: baseline !important;
+    }
+
+    .wd-icn span {
+        width: 200px;
+    }
+
+    .testi-sec3 .wd-icn span {
+        width: 88%;
+    }
+
+    .port-img .srvc-crd {
+        top: 13%;
+    }
+
+    .prt-imgs {
+        max-width: 240px;
+    }
+
+    .srvc-crd .blue-txt {
+        font-size: 19px;
+    }
+
+    .doctor-div {
+        margin-left: 10px;
+    }
+
+    .about-count-sec .count-area-content {
+        min-height: 155px;
+    }
+
+    .col-dv {
+        padding-left: 10px;
+    }
+
+    #scnd-line span {
+        top: 200px;
+    }
+
+    .faq .item-container .item .qus {
+        font-size: 16px;
+    }
+
+    .modal {
+        top: 23%;
+        left: 25%;
+    }
+
+    .glryinrfoot {
+        flex-direction: column;
+        padding: 14px;
+    }
+
+    .blg-txt {
+        min-height: 270px;
+    }
+
+    .blog .blue-txt {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .blg-icn {
+        padding: 10px 0;
+    }
+
+    .faq-2nd h2 span {
+        font-size: 27px;
+        line-height: 37px;
+    }
+}
+
+@media (max-width: 991.98px) {
+
+    .banner .carousel-indicators:before,
+    .banner .carousel-indicators::after {
+        height: 50px;
+    }
+
+    .banner .carousel-dark .carousel-caption {
+        height: 200px;
+    }
+
+    .glryinrfoot {
+        flex-direction: row;
+        padding: 0;
+    }
+
+    .navbar button.bg-gradient {
+        width: 189px;
+        padding: 14px 0;
+    }
+
+    .modal {
+        top: 15%;
+        left: auto;
+    }
+
+    .wd-icn span {
+        width: 230px;
+    }
+
+    .srvc-crd {
+        min-height: 339px;
+    }
+
+    .next-bnr1 {
+        height: 350px;
+    }
+
+    .top-main p {
+        font-size: 8px;
+        line-height: 20px;
+    }
+
+    .bnr-txt {
+        padding: 0 20px;
+    }
+
+    .banner .carousel-caption h5 {
+        font-size: 16px;
+        line-height: inherit;
+    }
+
+    .banner .carousel-caption h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .bnr-txt p {
+        line-height: 20px;
+        font-size: 15px;
+    }
+
+    button.bg-gradient {
+        width: 120px;
+        padding: 7px;
+    }
+
+    .banner form h2 {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+    .banner .form-control {
+        margin: 6px 0;
+        padding: 5px;
+        font-size: 10px;
+    }
+
+    .banner textarea {
+        height: 80px;
+    }
+
+    .banner form button {
+        padding: 4px 0;
+        font-size: 13px;
+    }
+
+    .banner .carousel-dark .carousel-indicators [data-bs-target] {
+        margin: 10px 0;
+        padding: 5px;
+        line-height: 12px;
+    }
+
+    .banner .carousel-indicators {
+        top: 30%;
+    }
+
+    .banner .carousel-indicators:before {
+        margin-left: 8px;
+    }
+
+    .banner .carousel-indicators::after {
+        margin-left: 8px;
+    }
+
+    .banner .carousel-caption h5 {
+        font-size: 13px;
+    }
+
+    .rcntglry {
+        margin: 20px 0;
+    }
+
+    .row.r-inr-nws .col-lg-6.nw-2 {
+        justify-content: center;
+    }
+
+    .row.r-inr-nws .col-lg-6.nw-1 {
+        justify-content: center;
+    }
+
+    .inpt-txt {
+        gap: 10px;
+    }
+
+    .cus-srvc {
+        margin-top: 20px;
+        height: 100%;
+    }
+
+    .scnd-img {
+        top: 25%;
+    }
+
+    .abt-img img {
+        max-width: inherit;
+    }
+
+    .abt-txt {
+        padding: 30px;
+    }
+
+    .offer-txt {
+        padding: 30px;
+    }
+
+    .kid-txt {
+        margin: 20px 0;
+    }
+
+    .date-dv {
+        bottom: 59%;
+    }
+
+    .blog-crd {
+        margin-top: 17px;
+    }
+
+    .glryinrfoot {
+        margin-right: 17px;
+    }
+
+    .abus-2 .scnd-img {
+        top: 47%;
+        right: 0;
+    }
+
+    .third-img {
+        display: none;
+    }
+
+    .abus-2 .abt-img img {
+        max-width: 100%;
+    }
+
+    .abus-2 .abt-txt {
+        padding: 30px;
+    }
+
+    .abt-pg-txt {
+        bottom: 2%;
+        right: 3%;
+        width: 94%;
+    }
+
+    .why-ch-us .srvc-crd {
+        min-height: 270px;
+    }
+
+    .check-img {
+        display: none;
+    }
+
+    .about-count-sec .count-area-content {
+        margin: 10px;
+        min-height: 115px;
+    }
+
+    .count-bg {
+        padding: 15px;
+    }
+
+    .abus-2 button.bg-gradient {
+        width: 160px;
+        padding: 11px;
+    }
+
+    .doctor-sec button.bg-gradient {
+        width: 160px;
+        padding: 11px;
+    }
+
+    .kidney-sec div#testimonial-slider {
+        margin: 20px 0;
+        height: auto;
+    }
+
+    .kidney-sec .owl-theme .owl-controls {
+        right: 43%;
+    }
+
+    .cntct-info-sec button {
+        width: 140px !important;
+    }
+
+    .cntct-info-sec .bnr-frm {
+        min-height: 550px;
+    }
+
+    .faq-doc-img img {
+        max-width: 400px;
+    }
+
+    .faq-doc-img {
+        justify-content: center;
+    }
+
+    .ask-img {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .ask-img img {
+        max-width: 500px;
+    }
+
+    .ask-ques-sec .bnr-frm {
+        padding: 30px;
+    }
+
+    .rw-rvs {
+        flex-direction: column-reverse;
+        display: flex;
+    }
+
+    .blog-page-sec .rw-rvs {
+        flex-direction: row;
+        align-items: center !important;
+    }
+
+    .blog-page-sec .date-dv {
+        top: 27%;
+    }
+
+    #scnd-line span {
+        top: 220px;
+    }
+
+    .testi-sec3 .wd-icn span {
+        width: 84%;
+    }
+
+    .port-img .srvc-crd {
+        top: 23%;
+    }
+
+    .prt-imgs {
+        max-width: 278px;
+    }
+
+    .portfolio-sec .info-txt {
+        padding: 30px;
+    }
+
+    .port-img {
+        margin-top: 60px;
+    }
+
+    .count-area-content {
+        min-height: 106px;
+    }
+
+    .service-sec::before,
+    .service-sec::after {
+        display: none;
+    }
+
+    .abot-sec button.bg-gradient {
+        width: 150px;
+        padding: 12px;
+    }
+
+    .top-main p {
+        display: none;
+    }
+
+    .banner .bnr-txt {
+        width: 385px;
+    }
+}
+
+@media (max-width: 767.98px) {}
+
+@media (max-width: 575.98px) {
+    .abt-img img {
+        height: auto;
+    }
+
+    #home-bnr .form-control {
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    #home-bnr textarea {
+        height: 105px;
+    }
+
+    .ds-nn {
+        display: none !important;
+    }
+
+    .ds-blk {
+        display: block;
+    }
+
+    .blg-txt {
+        min-height: 216px;
+    }
+
+    .faq-2nd h2 span {
+        font-weight: 500;
+        font-size: 24px;
+    }
+
+    .faq-2nd .h3-txt {
+        font-size: 21px;
+        line-height: 31px;
+    }
+
+    .ask-ques-sec .banner textarea {
+        height: 110px;
+    }
+
+    .faq-dv {
+        padding: 20px 0;
+    }
+
+    .srvc-crd {
+        min-height: auto !important;
+    }
+
+    .top-main p {
+        display: none;
+    }
+
+    .banner .carousel-indicators:before {
+        width: 3px;
+        height: 30px;
+    }
+
+    .banner .carousel-indicators::after {
+        width: 2px;
+        height: 30px;
+    }
+
+    .banner .carousel-dark .carousel-indicators [data-bs-target] {
+        margin: 7px 0;
+        padding: 5px;
+        line-height: 5px;
+        font-size: 11px;
+    }
+
+    .banner .carousel-indicators {
+        bottom: -10%;
+    }
+
+    .banner textarea {
+        height: 40px;
+    }
+
+    /* .bnr-frm {
+        display: none;
+    } */
+
+    .scnd-frm {
+        display: block !important;
+        padding: 20px !important;
+    }
+
+    .emlnws {
+        width: 100%;
+    }
+
+    .glryfoot {
+        flex-direction: column;
+    }
+
+    .offer-img img {
+        min-height: auto;
+
+    }
+
+    .doctor-div {
+        margin-left: 8px;
+        flex-direction: column;
+    }
+
+    .vdo-sec {
+        padding: 20px 0;
+    }
+
+    .faq {
+        padding: 0;
+    }
+
+    .blog {
+        padding: 0;
+    }
+
+    .date-dv {
+        bottom: 47%;
+    }
+
+    .footdesc {
+        align-items: baseline;
+    }
+
+    .footdesc p {
+        text-align: start;
+    }
+
+    h2 span {
+        font-size: 34px;
+    }
+
+    .faq h2 {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .kid-2 {
+        margin-left: 20px;
+    }
+
+    .banner .carousel-dark .carousel-caption {
+        padding: 0;
+        bottom: 0%;
+    }
+
+    #home-bnr .bnr-txt {
+        padding: 0;
+    }
+
+    .banner .carousel-caption h5 {
+        font-size: 12px;
+        margin: 0;
+    }
+
+    #home-bnr h1 {
+        margin: 0;
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    #home-bnr p {
+        margin: 0;
+        font-size: 11px;
+    }
+
+    .carousel-caption button.bg-gradient {
+        width: 86px;
+        padding: 5px;
+        font-size: 10px;
+    }
+
+    .banner form button {
+        padding: 9px 0;
+    }
+
+    .abt-first {
+        display: none;
+    }
+
+    .service-sec::before,
+    .service-sec::after {
+        display: none;
+    }
+
+    button.bg-gradient {
+        padding: 10px;
+    }
+
+    .faq .item-container .item .qus::after {
+        width: 16px !important;
+        right: -2px !important;
+    }
+
+    .abt-pg-txt {
+        position: relative;
+    }
+
+    .scnd-img {
+        position: relative;
+    }
+
+    .abus-2 .scnd-img {
+        position: relative;
+    }
+
+    .abt-pg-txt {
+        bottom: 2%;
+        right: 0%;
+        width: 100%;
+    }
+
+    .abus-2 .abt-txt {
+        padding: 10px;
+    }
+
+    h2 span {
+        font-size: 30px;
+    }
+
+    .next-bnr1 {
+        height: 255px;
+    }
+
+    .kidney-sec .owl-theme .owl-controls {
+        right: 38%;
+    }
+
+    .map-sec iframe {
+        height: 360px;
+    }
+
+    .ask-ques-sec .bnr-frm {
+        display: block;
+    }
+
+    .ask-ques-sec .banner .form-control {
+        margin: 10px 0;
+        padding: 10px;
+    }
+
+    .glryinrfoot img {
+        margin-bottom: 15px;
+    }
+
+    .blg-name-dv {
+        width: 325px;
+    }
+
+    .blg-name-dv :before,
+    .blg-name-dv :after {
+        width: 85px;
+        bottom: 13px;
+    }
+
+    .blog-page-sec .date-dv {
+        top: 11%;
+    }
+
+    .next-bnr2,
+    .next-bnr3,
+    .next-bnr4,
+    .next-bnr5,
+    .next-bnr6 {
+        height: 255px;
+    }
+
+    .wd-icn span {
+        width: 290px;
+    }
+
+    .testi-sec3 .prgf-txt {
+        line-height: 28px;
+    }
+
+    .testi-sec3 .wd-icn span {
+        width: 80%;
+    }
+
+    .prt-imgs {
+        max-width: 304px;
+    }
+
+    .port-img {
+        margin-left: 40px;
+    }
+
+    .port-img .srvc-crd {
+        top: 35%;
+    }
+
+    .inr-bnrs {
+        height: 255px;
+    }
+
+    .port-img:before,
+    .port-img::after {
+        display: none;
+    }
+
+    .abot-sec button.bg-gradient {
+        font-size: 10px;
+    }
+
+    .offer-sec .offer-txt h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .abot-sec h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .faq .item-container .item .qus {
+        font-size: 16px;
+    }
+
+    .faq .item-container .item {
+        padding: 15px;
+    }
+
+    .next-bnr6 h1 {
+        font-size: 33px;
+        line-height: 43px;
+        max-width: 250px;
+        position: absolute;
+        bottom: 55px;
+    }
+
+    .carousel-caption {
+        top: auto;
+    }
+
+    .carousel-caption {
+        bottom: 1.25rem;
+    }
+
+    .navbar button.bg-gradient {
+        display: none;
+    }
+
+    .banner .bnr-txt {
+        width: 100%;
+    }
+
+    .next-bnr6 {
+        background-position-x: -306px;
+    }
+
+    .next-bnr1 .bnr-txt p {
+        display: none;
+    }
+
+    .banner h1 {
+        font-size: 30px;
+    }
+
+    .scnd-img .abt-img-new {
+        display: block;
+    }
+
+    .doc-2 {
+        min-height: 260px;
+    }
+}
+
+@media (max-width: 375px) {
+    .blog-page-sec .date-dv {
+        top: 9%;
+        margin-top: 15px;
+    }
+
+    .blog-page-sec .blg-icn img {
+        width: 25px;
+    }
+
+    .blg-name-dv :before,
+    .blg-name-dv :after {
+        width: 60px;
+    }
+
+    .blg-name-dv {
+        width: 227px;
+    }
+
+    .b-name .blue-txt {
+        font-size: 13px;
+        line-height: 25px;
+    }
+
+    .wd-icn span {
+        width: 185px;
+    }
+
+    #scnd-line span {
+        top: 241px;
+    }
+
+    .prt-imgs {
+        max-width: 255px;
+    }
+
+    .port-img .srvc-crd {
+        top: 20%;
+    }
+
+    .banner .carousel-caption h5 {
+        display: none;
+    }
+
+    .banner .carousel-dark .carousel-indicators [data-bs-target] {
+        font-size: 8px;
+        width: 5px;
+        height: 5px;
+    }
+
+    .banner .carousel-indicators:before,
+    .banner .carousel-indicators::after {
+        height: 15px;
+    }
+
+    h2 span {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .abot-sec .h3-txt {
+        font-size: 33px;
+        line-height: 43px;
+    }
+
+    .abot-sec h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .abot-sec button.bg-gradient {
+        font-size: 10px;
+    }
+
+    .offer-txt {
+        padding: 12px;
+    }
+
+    .doctor-sign {
+        flex-direction: column;
+    }
+
+    .sign-div:after {
+        position: relative;
+    }
+
+    .doctor-sign:after {
+        position: relative;
+    }
+
+    .offer-sec .offer-txt h2 {
+        font-size: 27px;
+        line-height: 45px;
+    }
+
+    .faq .item-container .item .ans {
+        font-size: 14px;
+        padding-right: 0%;
+    }
+
+    .faq .item-container .item .qus {
+        font-size: 14px;
+    }
+
+    .faq .item-container .item .qus::after {
+        right: 0px !important;
+    }
+
+    .date-dv {
+        position: relative;
+    }
+
+
+    #home-bnr p {
+        line-height: 17px;
+    }
+
+    .abt-txt {
+        padding: 15px;
+    }
+
+    .faq .item-container .item .qus::after {
+        width: 15px !important;
+    }
+
+    .kidney-sec .info-txt {
+        padding-top: 22px;
+    }
+
+    .kid-img-sec {
+        height: 260px;
+    }
+
+    .h3-txt {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    .kidney-sec .testimonial {
+        padding: 0;
+        height: 270px;
+        margin: 0;
+    }
+
+    .kidney-sec .owl-theme .owl-controls .owl-page span {
+        width: 12px !important;
+        height: 12px !important;
+    }
+
+    .doc-2 {
+        min-height: 317px;
+    }
+
+    .testi-sec2 {
+        padding: 30px 0;
+    }
+
+    .testi-sec3 .wd-icn span {
+        width: 70%;
+    }
+
+    #scnd-line span {
+        top: 300px;
+    }
+
+    .rc-pst .blg-icn span {
+        font-size: 11px;
+        line-height: 17px;
+    }
+
+    .rc-pst .blg-doc-txt .blue-txt {
+        font-size: 13px;
+        line-height: 19px;
+    }
+
+    .blg-doc-txt .blue-txt {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .blg-doc-txt span {
+        font-size: 14px;
+    }
+
+    .serch-box .prgf-txt {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    /* .faq-2nd h2 span {
+        font-size: 27px;
+        line-height: 37px;
+    } */
+    .ask-ques-sec .banner .form-control {
+        padding: 6px;
+        font-size: 12px;
+    }
+
+    .ask-ques-sec .bnr-frm {
+        padding: 15px;
+    }
+
+    .contact-info .prgf-txt {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .contact-info {
+        padding: 15px;
+    }
+
+    .cntc-scil-icon i {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .contact-info .social-icn i {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .cntct-info-sec .banner textarea {
+        height: 80px;
+    }
+
+    .cntct-info-sec .banner .form-control {
+        margin: 10px 0;
+        font-size: 12px;
+        padding: 6px;
+    }
+
+    .portfolio-sec .info-txt {
+        padding: 10px;
+    }
+
+    .port-img {
+        margin-left: 30px;
+        margin-top: 35px;
+
+    }
+
+    .port-img .srvc-crd {
+        top: 20%;
+        padding-right: 0;
+        padding: 0 20px;
+        max-width: 262px;
+    }
+
+    .port-num {
+        right: 30px;
+        bottom: -47px;
+    }
+
+    .faq h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+}
